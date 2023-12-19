@@ -1,0 +1,1213 @@
+"","province","pt","type","category","constrained","Industry","conversion.factor"
+"1","Alberta","AB","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",10.1910021249569
+"2","Alberta","AB","Direct","Output",NA,"Forestry and logging [BS113000]",41.1199550957861
+"3","Alberta","AB","Direct","Output",NA,"Other wood product manufacturing [BS321900]",27.4492426800469
+"4","Alberta","AB","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",65.7327021843867
+"5","Alberta","AB","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",82.5220089460457
+"6","Alberta","AB","Direct","Output",NA,"Support activities for forestry [BS115300]",8.55896482813407
+"7","Alberta","AB","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",52.6741883745597
+"8","Alberta","AB","Direct","Output",NA,"Total Forest Sector",288.248064233916
+"9","Alberta","AB","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",3.19096523057526
+"10","Alberta","AB","Direct","GDP",NA,"Forestry and logging [BS113000]",15.432721913576
+"11","Alberta","AB","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",9.32328998750583
+"12","Alberta","AB","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",19.407951220724
+"13","Alberta","AB","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",31.0574482150135
+"14","Alberta","AB","Direct","GDP",NA,"Support activities for forestry [BS115300]",3.80390231490238
+"15","Alberta","AB","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",21.5310766634234
+"16","Alberta","AB","Direct","GDP",NA,"Total Forest Sector",103.74735554572
+"17","Alberta","AB","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",2.60313641235311e-05
+"18","Alberta","AB","Direct","Jobs",NA,"Forestry and logging [BS113]",0.000105011630591947
+"19","Alberta","AB","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000108334783458781
+"20","Alberta","AB","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",7.25924281799464e-05
+"21","Alberta","AB","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000147954150415588
+"22","Alberta","AB","Direct","Jobs",NA,"Support activities for forestry [BS1153]",3.90285842249254e-05
+"23","Alberta","AB","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",9.06851493438191e-05
+"24","Alberta","AB","Direct","Jobs",NA,"Total Forest Sector",0.000589638090338537
+"25","British Columbia","BC","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",7.02093479024501
+"26","British Columbia","BC","Direct","Output",NA,"Forestry and logging [BS113000]",85.6171467496823
+"27","British Columbia","BC","Direct","Output",NA,"Other wood product manufacturing [BS321900]",36.3623144985056
+"28","British Columbia","BC","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",72.7820155339714
+"29","British Columbia","BC","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",125.230392356098
+"30","British Columbia","BC","Direct","Output",NA,"Support activities for forestry [BS115300]",14.7616329254147
+"31","British Columbia","BC","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",30.8237031375379
+"32","British Columbia","BC","Direct","Output",NA,"Total Forest Sector",372.598139991455
+"33","British Columbia","BC","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",2.3333949519923
+"34","British Columbia","BC","Direct","GDP",NA,"Forestry and logging [BS113000]",35.2985561495426
+"35","British Columbia","BC","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",10.6255874338813
+"36","British Columbia","BC","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",19.2656655324839
+"37","British Columbia","BC","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",30.706012104111
+"38","British Columbia","BC","Direct","GDP",NA,"Support activities for forestry [BS115300]",7.43625769332993
+"39","British Columbia","BC","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",10.5276736815537
+"40","British Columbia","BC","Direct","GDP",NA,"Total Forest Sector",116.193147546895
+"41","British Columbia","BC","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",2.1722587436916e-05
+"42","British Columbia","BC","Direct","Jobs",NA,"Forestry and logging [BS113]",0.00019983159353348
+"43","British Columbia","BC","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000123429687122894
+"44","British Columbia","BC","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",9.75571128323585e-05
+"45","British Columbia","BC","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000294422114200946
+"46","British Columbia","BC","Direct","Jobs",NA,"Support activities for forestry [BS1153]",9.37475545878247e-05
+"47","British Columbia","BC","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",7.82337365451914e-05
+"48","British Columbia","BC","Direct","Jobs",NA,"Total Forest Sector",0.000908944386259611
+"49","Manitoba","MB","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",231.98079611487
+"50","Manitoba","MB","Direct","Output",NA,"Forestry and logging [BS113000]",43.0770802173281
+"51","Manitoba","MB","Direct","Output",NA,"Other wood product manufacturing [BS321900]",187.978322122734
+"52","Manitoba","MB","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",128.136191351795
+"53","Manitoba","MB","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",66.1039619804756
+"54","Manitoba","MB","Direct","Output",NA,"Support activities for forestry [BS115300]",12.4156998120119
+"55","Manitoba","MB","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",144.777856068764
+"56","Manitoba","MB","Direct","Output",NA,"Total Forest Sector",814.469907667979
+"57","Manitoba","MB","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",73.1678011281793
+"58","Manitoba","MB","Direct","GDP",NA,"Forestry and logging [BS113000]",16.7496273240309
+"59","Manitoba","MB","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",85.3675757260692
+"60","Manitoba","MB","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",34.9953079173353
+"61","Manitoba","MB","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",14.9913791518951
+"62","Manitoba","MB","Direct","GDP",NA,"Support activities for forestry [BS115300]",6.215561520796
+"63","Manitoba","MB","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",36.3833985795478
+"64","Manitoba","MB","Direct","GDP",NA,"Total Forest Sector",267.870651347854
+"65","Manitoba","MB","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",0.000714866691039441
+"66","Manitoba","MB","Direct","Jobs",NA,"Forestry and logging [BS113]",0.000188163400877695
+"67","Manitoba","MB","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.00116676731773751
+"68","Manitoba","MB","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",0.000303837622728738
+"69","Manitoba","MB","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000178138301650605
+"70","Manitoba","MB","Direct","Jobs",NA,"Support activities for forestry [BS1153]",8.40566012117574e-05
+"71","Manitoba","MB","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",0.000515907029455648
+"72","Manitoba","MB","Direct","Jobs",NA,"Total Forest Sector",0.0031517369647014
+"73","New Brunswick","NB","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",63.7368375749208
+"74","New Brunswick","NB","Direct","Output",NA,"Forestry and logging [BS113000]",70.6627546325602
+"75","New Brunswick","NB","Direct","Output",NA,"Other wood product manufacturing [BS321900]",23.753948462747
+"76","New Brunswick","NB","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",155.100317426097
+"77","New Brunswick","NB","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",115.763590486122
+"78","New Brunswick","NB","Direct","Output",NA,"Support activities for forestry [BS115300]",7.68547855144905
+"79","New Brunswick","NB","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",32.5627221810977
+"80","New Brunswick","NB","Direct","Output",NA,"Total Forest Sector",469.265649314994
+"81","New Brunswick","NB","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",15.7304115563066
+"82","New Brunswick","NB","Direct","GDP",NA,"Forestry and logging [BS113000]",27.1109963044017
+"83","New Brunswick","NB","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",7.81599475179381
+"84","New Brunswick","NB","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",43.4298005671806
+"85","New Brunswick","NB","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",36.1401498364493
+"86","New Brunswick","NB","Direct","GDP",NA,"Support activities for forestry [BS115300]",5.1158071315464
+"87","New Brunswick","NB","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",11.7122242735613
+"88","New Brunswick","NB","Direct","GDP",NA,"Total Forest Sector",147.05538442124
+"89","New Brunswick","NB","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",0.000102166369942008
+"90","New Brunswick","NB","Direct","Jobs",NA,"Forestry and logging [BS113]",0.000263599932499589
+"91","New Brunswick","NB","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000189890373452423
+"92","New Brunswick","NB","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",0.000226156760269534
+"93","New Brunswick","NB","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000329713876608658
+"94","New Brunswick","NB","Direct","Jobs",NA,"Support activities for forestry [BS1153]",7.01792028083321e-05
+"95","New Brunswick","NB","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",8.46215692399248e-05
+"96","New Brunswick","NB","Direct","Jobs",NA,"Total Forest Sector",0.00126632808482047
+"97","Newfoundland and Labrador","NL","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",8.10963344299674
+"98","Newfoundland and Labrador","NL","Direct","Output",NA,"Forestry and logging [BS113000]",56.3430928161692
+"99","Newfoundland and Labrador","NL","Direct","Output",NA,"Other wood product manufacturing [BS321900]",12.2587482277858
+"100","Newfoundland and Labrador","NL","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",124.37914548038
+"101","Newfoundland and Labrador","NL","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",40.8939267803828
+"102","Newfoundland and Labrador","NL","Direct","Output",NA,"Support activities for forestry [BS115300]",5.06066272993207
+"103","Newfoundland and Labrador","NL","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",9.99559470880994
+"104","Newfoundland and Labrador","NL","Direct","Output",NA,"Total Forest Sector",257.040804186457
+"105","Newfoundland and Labrador","NL","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",2.07455739239452
+"106","Newfoundland and Labrador","NL","Direct","GDP",NA,"Forestry and logging [BS113000]",29.1223852129321
+"107","Newfoundland and Labrador","NL","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",4.22769650419791
+"108","Newfoundland and Labrador","NL","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",49.5693486031235
+"109","Newfoundland and Labrador","NL","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",13.5160557383279
+"110","Newfoundland and Labrador","NL","Direct","GDP",NA,"Support activities for forestry [BS115300]",2.82894189871979
+"111","Newfoundland and Labrador","NL","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",3.50474468563619
+"112","Newfoundland and Labrador","NL","Direct","GDP",NA,"Total Forest Sector",104.843730035332
+"113","Newfoundland and Labrador","NL","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",2.12170642403985e-05
+"114","Newfoundland and Labrador","NL","Direct","Jobs",NA,"Forestry and logging [BS113]",0.00019488266413403
+"115","Newfoundland and Labrador","NL","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000101370418037459
+"116","Newfoundland and Labrador","NL","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",0.000245174964555715
+"117","Newfoundland and Labrador","NL","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000142232912130079
+"118","Newfoundland and Labrador","NL","Direct","Jobs",NA,"Support activities for forestry [BS1153]",3.53617737339974e-05
+"119","Newfoundland and Labrador","NL","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",6.28653755271065e-05
+"120","Newfoundland and Labrador","NL","Direct","Jobs",NA,"Total Forest Sector",0.000803105172358786
+"121","Northwest Territories","NW","Direct","Output",NA,"Forestry and logging [BS113000]",NA
+"122","Northwest Territories","NW","Direct","Output",NA,"Other wood product manufacturing [BS321900]",NA
+"123","Northwest Territories","NW","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",NA
+"124","Northwest Territories","NW","Direct","Output",NA,"Support activities for forestry [BS115300]",NA
+"125","Northwest Territories","NW","Direct","Output",NA,"Total Forest Sector",NA
+"126","Northwest Territories","NW","Direct","GDP",NA,"Forestry and logging [BS113000]",NA
+"127","Northwest Territories","NW","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",NA
+"128","Northwest Territories","NW","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",NA
+"129","Northwest Territories","NW","Direct","GDP",NA,"Support activities for forestry [BS115300]",NA
+"130","Northwest Territories","NW","Direct","GDP",NA,"Total Forest Sector",NA
+"131","Northwest Territories","NW","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",NA
+"132","Northwest Territories","NW","Direct","Jobs",NA,"Forestry and logging [BS113]",NA
+"133","Northwest Territories","NW","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",NA
+"134","Northwest Territories","NW","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",NA
+"135","Northwest Territories","NW","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",NA
+"136","Northwest Territories","NW","Direct","Jobs",NA,"Support activities for forestry [BS1153]",NA
+"137","Northwest Territories","NW","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",NA
+"138","Northwest Territories","NW","Direct","Jobs",NA,"Total Forest Sector",NA
+"139","Nova Scotia","NS","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",61.6281380243205
+"140","Nova Scotia","NS","Direct","Output",NA,"Forestry and logging [BS113000]",40.4868542683055
+"141","Nova Scotia","NS","Direct","Output",NA,"Other wood product manufacturing [BS321900]",24.5907810180151
+"142","Nova Scotia","NS","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",134.005872167432
+"143","Nova Scotia","NS","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",99.6713412805472
+"144","Nova Scotia","NS","Direct","Output",NA,"Support activities for forestry [BS115300]",16.2663234036356
+"145","Nova Scotia","NS","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",22.1101049906018
+"146","Nova Scotia","NS","Direct","Output",NA,"Total Forest Sector",398.759415152858
+"147","Nova Scotia","NS","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",20.6599585566662
+"148","Nova Scotia","NS","Direct","GDP",NA,"Forestry and logging [BS113000]",21.0302087100114
+"149","Nova Scotia","NS","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",8.13316170181781
+"150","Nova Scotia","NS","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",24.0539182956645
+"151","Nova Scotia","NS","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",28.5092618075859
+"152","Nova Scotia","NS","Direct","GDP",NA,"Support activities for forestry [BS115300]",10.0152666479896
+"153","Nova Scotia","NS","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",7.73205736902709
+"154","Nova Scotia","NS","Direct","GDP",NA,"Total Forest Sector",120.133833088763
+"155","Nova Scotia","NS","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",0.000157356315171741
+"156","Nova Scotia","NS","Direct","Jobs",NA,"Forestry and logging [BS113]",0.0002388113489077
+"157","Nova Scotia","NS","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000165686943622009
+"158","Nova Scotia","NS","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",0.000202094875367628
+"159","Nova Scotia","NS","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000277996156803408
+"160","Nova Scotia","NS","Direct","Jobs",NA,"Support activities for forestry [BS1153]",0.00010953233703131
+"161","Nova Scotia","NS","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",9.74992070475883e-05
+"162","Nova Scotia","NS","Direct","Jobs",NA,"Total Forest Sector",0.00124897718395138
+"163","Ontario","ON","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",390.987181506201
+"164","Ontario","ON","Direct","Output",NA,"Forestry and logging [BS113000]",82.9806405840512
+"165","Ontario","ON","Direct","Output",NA,"Other wood product manufacturing [BS321900]",154.254224126142
+"166","Ontario","ON","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",207.700498127941
+"167","Ontario","ON","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",114.828443412033
+"168","Ontario","ON","Direct","Output",NA,"Support activities for forestry [BS115300]",19.2946342486093
+"169","Ontario","ON","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",109.315690769573
+"170","Ontario","ON","Direct","Output",NA,"Total Forest Sector",1079.36131277455
+"171","Ontario","ON","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",130.587785045652
+"172","Ontario","ON","Direct","GDP",NA,"Forestry and logging [BS113000]",28.2329729858116
+"173","Ontario","ON","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",54.6804723545877
+"174","Ontario","ON","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",63.495391256511
+"175","Ontario","ON","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",34.2970008925174
+"176","Ontario","ON","Direct","GDP",NA,"Support activities for forestry [BS115300]",11.9346980714746
+"177","Ontario","ON","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",41.8571514691047
+"178","Ontario","ON","Direct","GDP",NA,"Total Forest Sector",365.085472075659
+"179","Ontario","ON","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",0.00103117272375564
+"180","Ontario","ON","Direct","Jobs",NA,"Forestry and logging [BS113]",0.000250267999315651
+"181","Ontario","ON","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000711789616683773
+"182","Ontario","ON","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",0.000271112238162762
+"183","Ontario","ON","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000233057788951753
+"184","Ontario","ON","Direct","Jobs",NA,"Support activities for forestry [BS1153]",0.000120402905972132
+"185","Ontario","ON","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",0.000263227082019941
+"186","Ontario","ON","Direct","Jobs",NA,"Total Forest Sector",0.00288103035486165
+"187","Prince Edward Island","PE","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",221.446422179904
+"188","Prince Edward Island","PE","Direct","Output",NA,"Forestry and logging [BS113000]",27.82684058088
+"189","Prince Edward Island","PE","Direct","Output",NA,"Other wood product manufacturing [BS321900]",19.1707813925528
+"190","Prince Edward Island","PE","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",0
+"191","Prince Edward Island","PE","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",6.31945425405481
+"192","Prince Edward Island","PE","Direct","Output",NA,"Support activities for forestry [BS115300]",3.29248877102015
+"193","Prince Edward Island","PE","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",24.1626192066801
+"194","Prince Edward Island","PE","Direct","Output",NA,"Total Forest Sector",302.218606385092
+"195","Prince Edward Island","PE","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",75.6741370758664
+"196","Prince Edward Island","PE","Direct","GDP",NA,"Forestry and logging [BS113000]",9.55883836747786
+"197","Prince Edward Island","PE","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",6.5318728844432
+"198","Prince Edward Island","PE","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",0
+"199","Prince Edward Island","PE","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",2.92075616784046
+"200","Prince Edward Island","PE","Direct","GDP",NA,"Support activities for forestry [BS115300]",1.96487233109267
+"201","Prince Edward Island","PE","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",7.16912877560839
+"202","Prince Edward Island","PE","Direct","GDP",NA,"Total Forest Sector",103.819605602329
+"203","Prince Edward Island","PE","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",0.000828432658514748
+"204","Prince Edward Island","PE","Direct","Jobs",NA,"Forestry and logging [BS113]",0.000151348274151733
+"205","Prince Edward Island","PE","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000201797698868977
+"206","Prince Edward Island","PE","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",0
+"207","Prince Edward Island","PE","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",9.02779179150687e-05
+"208","Prince Edward Island","PE","Direct","Jobs",NA,"Support activities for forestry [BS1153]",8.76226850352137e-05
+"209","Prince Edward Island","PE","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",0.000111519780953908
+"210","Prince Edward Island","PE","Direct","Jobs",NA,"Total Forest Sector",0.00147099901543965
+"211","Quebec","QC","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",124.069012381122
+"212","Quebec","QC","Direct","Output",NA,"Forestry and logging [BS113000]",80.0385297456857
+"213","Quebec","QC","Direct","Output",NA,"Other wood product manufacturing [BS321900]",117.642788918899
+"214","Quebec","QC","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",226.510403836352
+"215","Quebec","QC","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",148.954386712467
+"216","Quebec","QC","Direct","Output",NA,"Support activities for forestry [BS115300]",23.2848069830779
+"217","Quebec","QC","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",70.4133492295808
+"218","Quebec","QC","Direct","Output",NA,"Total Forest Sector",790.913277807184
+"219","Quebec","QC","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",39.6134974589286
+"220","Quebec","QC","Direct","GDP",NA,"Forestry and logging [BS113000]",27.1080215968279
+"221","Quebec","QC","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",38.4332151422479
+"222","Quebec","QC","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",78.7667864376754
+"223","Quebec","QC","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",43.4555849756513
+"224","Quebec","QC","Direct","GDP",NA,"Support activities for forestry [BS115300]",11.2671230747346
+"225","Quebec","QC","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",24.3663694995935
+"226","Quebec","QC","Direct","GDP",NA,"Total Forest Sector",263.010598185659
+"227","Quebec","QC","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",0.00031927870663716
+"228","Quebec","QC","Direct","Jobs",NA,"Forestry and logging [BS113]",0.000273693387149122
+"229","Quebec","QC","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000513851077477426
+"230","Quebec","QC","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",0.000366787610466652
+"231","Quebec","QC","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000374082713346506
+"232","Quebec","QC","Direct","Jobs",NA,"Support activities for forestry [BS1153]",0.000139695776042563
+"233","Quebec","QC","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",0.00018956379274365
+"234","Quebec","QC","Direct","Jobs",NA,"Total Forest Sector",0.00217695306386308
+"235","Saskatchewan","SK","Direct","Output",NA,"Converted paper product manufacturing [BS322200]",6.30466869555226
+"236","Saskatchewan","SK","Direct","Output",NA,"Forestry and logging [BS113000]",35.5938811324442
+"237","Saskatchewan","SK","Direct","Output",NA,"Other wood product manufacturing [BS321900]",15.1282587624583
+"238","Saskatchewan","SK","Direct","Output",NA,"Pulp, paper and paperboard mills [BS322100]",67.7162663398452
+"239","Saskatchewan","SK","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",46.9363925707041
+"240","Saskatchewan","SK","Direct","Output",NA,"Support activities for forestry [BS115300]",19.0956826767934
+"241","Saskatchewan","SK","Direct","Output",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",107.061523549705
+"242","Saskatchewan","SK","Direct","Output",NA,"Total Forest Sector",297.836673727503
+"243","Saskatchewan","SK","Direct","GDP",NA,"Converted paper product manufacturing [BS322200]",1.66946055801228
+"244","Saskatchewan","SK","Direct","GDP",NA,"Forestry and logging [BS113000]",11.7156849747568
+"245","Saskatchewan","SK","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",6.28502798310506
+"246","Saskatchewan","SK","Direct","GDP",NA,"Pulp, paper and paperboard mills [BS322100]",17.774844764719
+"247","Saskatchewan","SK","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",17.2003539256383
+"248","Saskatchewan","SK","Direct","GDP",NA,"Support activities for forestry [BS115300]",5.17532772983807
+"249","Saskatchewan","SK","Direct","GDP",NA,"Veneer, plywood and engineered wood product manufacturing [BS321200]",38.2748383814874
+"250","Saskatchewan","SK","Direct","GDP",NA,"Total Forest Sector",98.0955383175569
+"251","Saskatchewan","SK","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",2.08682569751535e-05
+"252","Saskatchewan","SK","Direct","Jobs",NA,"Forestry and logging [BS113]",9.15748217850854e-05
+"253","Saskatchewan","SK","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",8.74011703900547e-05
+"254","Saskatchewan","SK","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",5.03293256459585e-05
+"255","Saskatchewan","SK","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000139694567280734
+"256","Saskatchewan","SK","Direct","Jobs",NA,"Support activities for forestry [BS1153]",3.31437022546556e-05
+"257","Saskatchewan","SK","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",0.000245999923401221
+"258","Saskatchewan","SK","Direct","Jobs",NA,"Total Forest Sector",0.000669011767732863
+"259","Yukon","YT","Direct","Output",NA,"Forestry and logging [BS113000]",134.548241505578
+"260","Yukon","YT","Direct","Output",NA,"Other wood product manufacturing [BS321900]",0
+"261","Yukon","YT","Direct","Output",NA,"Sawmills and wood preservation [BS321100]",25.5471344630844
+"262","Yukon","YT","Direct","Output",NA,"Support activities for forestry [BS115300]",223.111640977604
+"263","Yukon","YT","Direct","Output",NA,"Total Forest Sector",383.207016946266
+"264","Yukon","YT","Direct","GDP",NA,"Forestry and logging [BS113000]",59.6099804138636
+"265","Yukon","YT","Direct","GDP",NA,"Other wood product manufacturing [BS321900]",0
+"266","Yukon","YT","Direct","GDP",NA,"Sawmills and wood preservation [BS321100]",11.9219960827727
+"267","Yukon","YT","Direct","GDP",NA,"Support activities for forestry [BS115300]",177.126798944052
+"268","Yukon","YT","Direct","GDP",NA,"Total Forest Sector",248.658775440688
+"269","Yukon","YT","Direct","Jobs",NA,"Converted paper product manufacturing [BS3222]",0
+"270","Yukon","YT","Direct","Jobs",NA,"Forestry and logging [BS113]",0.00221408498680065
+"271","Yukon","YT","Direct","Jobs",NA,"Other wood product manufacturing [BS3219]",0.000170314229753896
+"272","Yukon","YT","Direct","Jobs",NA,"Pulp, paper and paperboard mills [BS3221]",0
+"273","Yukon","YT","Direct","Jobs",NA,"Sawmills and wood preservation [BS3211]",0.000255471344630844
+"274","Yukon","YT","Direct","Jobs",NA,"Support activities for forestry [BS1153]",0.00221408498680065
+"275","Yukon","YT","Direct","Jobs",NA,"Veneer, plywood and engineered wood product manufacturing [BS3212]",0
+"276","Yukon","YT","Direct","Jobs",NA,"Total Forest Sector",0.00485395554798603
+"277","Alberta","AB","Indirect","Output",TRUE,"Forestry and logging [BS113000]",16.1379882140555
+"278","Alberta","AB","Indirect","Output",FALSE,"Forestry and logging [BS113000]",23.727994651498
+"279","Alberta","AB","Induced","Output",TRUE,"Forestry and logging [BS113000]",6.53636345095841
+"280","Alberta","AB","Induced","Output",FALSE,"Forestry and logging [BS113000]",9.56775061665092
+"281","Alberta","AB","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",6.05674504682541
+"282","Alberta","AB","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",8.90534880620316
+"283","Alberta","AB","Induced","GDP",TRUE,"Forestry and logging [BS113000]",2.45316122621545
+"284","Alberta","AB","Induced","GDP",FALSE,"Forestry and logging [BS113000]",3.59087052165459
+"285","Alberta","AB","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",41.2129938586742
+"286","Alberta","AB","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",60.5962580267054
+"287","Alberta","AB","Induced","Jobs",TRUE,"Forestry and logging [BS113]",16.6924837959535
+"288","Alberta","AB","Induced","Jobs",FALSE,"Forestry and logging [BS113]",24.4340026882612
+"289","Alberta","AB","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",3.25809025972002
+"290","Alberta","AB","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",5.23501204851102
+"291","Alberta","AB","Induced","Output",TRUE,"Support activities for forestry [BS115300]",2.20329073511844
+"292","Alberta","AB","Induced","Output",FALSE,"Support activities for forestry [BS115300]",3.1178126063382
+"293","Alberta","AB","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",1.44800888074356
+"294","Alberta","AB","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",2.32662183450218
+"295","Alberta","AB","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",0.979219204192846
+"296","Alberta","AB","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",1.38566460183331
+"297","Alberta","AB","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",14.8567791394481
+"298","Alberta","AB","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",23.8714742678005
+"299","Alberta","AB","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",10.0469297110448
+"300","Alberta","AB","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",14.217117881361
+"301","Alberta","AB","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",22.9158337299783
+"302","Alberta","AB","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",30.1036245440314
+"303","Alberta","AB","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",11.7072273917629
+"304","Alberta","AB","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",16.2527436894056
+"305","Alberta","AB","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",8.62445459656692
+"306","Alberta","AB","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",11.3296049417768
+"307","Alberta","AB","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",4.40605619161296
+"308","Alberta","AB","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",6.11677723230936
+"309","Alberta","AB","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",41.0859206396752
+"310","Alberta","AB","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",53.9729491650412
+"311","Alberta","AB","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",20.9899504943327
+"312","Alberta","AB","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",29.139630932404
+"313","Alberta","AB","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",14.4530739253403
+"314","Alberta","AB","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",19.8958179490005
+"315","Alberta","AB","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",8.4619556785503
+"316","Alberta","AB","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",11.8021010209168
+"317","Alberta","AB","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",5.9078317542511
+"318","Alberta","AB","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",8.13260526190357
+"319","Alberta","AB","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",3.45890505501083
+"320","Alberta","AB","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",4.82422130672175
+"321","Alberta","AB","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",24.8827596179872
+"322","Alberta","AB","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",34.253118608923
+"323","Alberta","AB","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",14.5683063779438
+"324","Alberta","AB","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",20.3187809186936
+"325","Alberta","AB","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",9.46023358735726
+"326","Alberta","AB","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",12.4740440094448
+"327","Alberta","AB","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",5.39647155554894
+"328","Alberta","AB","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",7.46491559774555
+"329","Alberta","AB","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",3.21322165833698
+"330","Alberta","AB","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",4.23687935483563
+"331","Alberta","AB","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",1.8329419797903
+"332","Alberta","AB","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",2.5355006570228
+"333","Alberta","AB","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",37.3369993883592
+"334","Alberta","AB","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",49.2316991171791
+"335","Alberta","AB","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",21.2984228463554
+"336","Alberta","AB","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",29.462015555267
+"337","Alberta","AB","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",26.0612020105518
+"338","Alberta","AB","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",35.063134955035
+"339","Alberta","AB","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",9.71892717879064
+"340","Alberta","AB","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",14.0081127476936
+"341","Alberta","AB","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",7.69471694553833
+"342","Alberta","AB","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",10.352588441353
+"343","Alberta","AB","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",2.86956808917771
+"344","Alberta","AB","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",4.13597433038767
+"345","Alberta","AB","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",28.7808940202586
+"346","Alberta","AB","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",38.7222496779043
+"347","Alberta","AB","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",10.7331738962052
+"348","Alberta","AB","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",15.469969813824
+"349","Alberta","AB","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",2.72226221317336
+"350","Alberta","AB","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",3.73151621041766
+"351","Alberta","AB","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",1.7577073872218
+"352","Alberta","AB","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",2.43375902287888
+"353","Alberta","AB","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",0.852383697327687
+"354","Alberta","AB","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",1.16839721342136
+"355","Alberta","AB","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",0.550366204361261
+"356","Alberta","AB","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",0.762048749120262
+"357","Alberta","AB","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",6.95360456625803
+"358","Alberta","AB","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",9.5315903200886
+"359","Alberta","AB","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",4.48979604344699
+"360","Alberta","AB","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",6.21666706931017
+"361","British Columbia","BC","Indirect","Output",TRUE,"Forestry and logging [BS113000]",33.6014108466044
+"362","British Columbia","BC","Indirect","Output",FALSE,"Forestry and logging [BS113000]",49.4048010368855
+"363","British Columbia","BC","Induced","Output",TRUE,"Forestry and logging [BS113000]",13.6095671186011
+"364","British Columbia","BC","Induced","Output",FALSE,"Forestry and logging [BS113000]",19.9213133064465
+"365","British Columbia","BC","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",13.8533148148518
+"366","British Columbia","BC","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",20.3687953834312
+"367","British Columbia","BC","Induced","GDP",TRUE,"Forestry and logging [BS113000]",5.6110030215261
+"368","British Columbia","BC","Induced","GDP",FALSE,"Forestry and logging [BS113000]",8.21323324843034
+"369","British Columbia","BC","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",78.4261532807392
+"370","British Columbia","BC","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",115.311482503264
+"371","British Columbia","BC","Induced","Jobs",TRUE,"Forestry and logging [BS113]",31.7649161161868
+"372","British Columbia","BC","Induced","Jobs",FALSE,"Forestry and logging [BS113]",46.4966181943186
+"373","British Columbia","BC","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",5.6192230506386
+"374","British Columbia","BC","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",9.02881689222809
+"375","British Columbia","BC","Induced","Output",TRUE,"Support activities for forestry [BS115300]",3.80001200061901
+"376","British Columbia","BC","Induced","Output",FALSE,"Support activities for forestry [BS115300]",5.37728640661194
+"377","British Columbia","BC","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",2.8307160089929
+"378","British Columbia","BC","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",4.54831856446614
+"379","British Columbia","BC","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",1.91427795401269
+"380","British Columbia","BC","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",2.70883902969584
+"381","British Columbia","BC","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",35.6863242936998
+"382","British Columbia","BC","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",57.3398287807545
+"383","British Columbia","BC","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",24.1329556331867
+"384","British Columbia","BC","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",34.1498432785382
+"385","British Columbia","BC","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",34.7756784623188
+"386","British Columbia","BC","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",45.6834335607914
+"387","British Columbia","BC","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",17.7661777554529
+"388","British Columbia","BC","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",24.6641774125748
+"389","British Columbia","BC","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",8.52686303781782
+"390","British Columbia","BC","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",11.2014027703931
+"391","British Columbia","BC","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",4.35619867461162
+"392","British Columbia","BC","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",6.04756174535444
+"393","British Columbia","BC","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",81.7591367639731
+"394","British Columbia","BC","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",107.403744728999
+"395","British Columbia","BC","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",41.7690587533768
+"396","British Columbia","BC","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",57.9865567951637
+"397","British Columbia","BC","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",8.45760084487118
+"398","British Columbia","BC","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",11.6425673572349
+"399","British Columbia","BC","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",4.95173856204325
+"400","British Columbia","BC","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",6.906313499909
+"401","British Columbia","BC","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",2.88864908367233
+"402","British Columbia","BC","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",3.97645764383223
+"403","British Columbia","BC","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.69124026094294
+"404","British Columbia","BC","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",2.35881505038913
+"405","British Columbia","BC","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",21.4662629389342
+"406","British Columbia","BC","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",29.5500363233875
+"407","British Columbia","BC","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",12.5680230040816
+"408","British Columbia","BC","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",17.5289357167595
+"409","British Columbia","BC","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",12.5320757640743
+"410","British Columbia","BC","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",16.5245036676129
+"411","British Columbia","BC","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",7.14876538388983
+"412","British Columbia","BC","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",9.88885601814207
+"413","British Columbia","BC","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",3.66205145617641
+"414","British Columbia","BC","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",4.82869588867697
+"415","British Columbia","BC","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",2.08897130665176
+"416","British Columbia","BC","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",2.88966490970068
+"417","British Columbia","BC","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",42.5393766016647
+"418","British Columbia","BC","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",56.09143272875
+"419","British Columbia","BC","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",24.2660536552139
+"420","British Columbia","BC","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",33.5671263272526
+"421","British Columbia","BC","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",28.8560601729908
+"422","British Columbia","BC","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",38.8233793555083
+"423","British Columbia","BC","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",10.7612053877848
+"424","British Columbia","BC","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",15.5103722458322
+"425","British Columbia","BC","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",7.63830459763219
+"426","British Columbia","BC","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",10.2766904161214
+"427","British Columbia","BC","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",2.84853039870348
+"428","British Columbia","BC","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",4.10565222438844
+"429","British Columbia","BC","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",38.6787023901505
+"430","British Columbia","BC","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",52.0389106090493
+"431","British Columbia","BC","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",14.4243343706014
+"432","British Columbia","BC","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",20.7901241008125
+"433","British Columbia","BC","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",1.87546084735206
+"434","British Columbia","BC","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",2.57077092722081
+"435","British Columbia","BC","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",1.2109455767647
+"436","British Columbia","BC","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",1.67670099419936
+"437","British Columbia","BC","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",0.623306013317605
+"438","British Columbia","BC","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",0.854391058102431
+"439","British Columbia","BC","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",0.402455567581416
+"440","British Columbia","BC","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",0.55724853637741
+"441","British Columbia","BC","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",5.80262649607886
+"442","British Columbia","BC","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",7.95389758133429
+"443","British Columbia","BC","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",3.74663374016324
+"444","British Columbia","BC","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",5.18766874215457
+"445","Manitoba","MB","Indirect","Output",TRUE,"Forestry and logging [BS113000]",16.9060839493574
+"446","Manitoba","MB","Indirect","Output",FALSE,"Forestry and logging [BS113000]",24.8573405933426
+"447","Manitoba","MB","Induced","Output",TRUE,"Forestry and logging [BS113000]",6.84746498508218
+"448","Manitoba","MB","Induced","Output",FALSE,"Forestry and logging [BS113000]",10.0231325606457
+"449","Manitoba","MB","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",6.57357936591554
+"450","Manitoba","MB","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",9.66526025219123
+"451","Manitoba","MB","Induced","GDP",TRUE,"Forestry and logging [BS113000]",2.66249444103088
+"452","Manitoba","MB","Induced","GDP",FALSE,"Forestry and logging [BS113000]",3.8972867743864
+"453","Manitoba","MB","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",73.8468400222556
+"454","Manitoba","MB","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",108.578430089073
+"455","Manitoba","MB","Induced","Jobs",TRUE,"Forestry and logging [BS113]",29.9101585456508
+"456","Manitoba","MB","Induced","Jobs",FALSE,"Forestry and logging [BS113]",43.7816746293868
+"457","Manitoba","MB","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",4.72621063848236
+"458","Manitoba","MB","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",7.59394849864665
+"459","Manitoba","MB","Induced","Output",TRUE,"Support activities for forestry [BS115300]",3.19611038427193
+"460","Manitoba","MB","Induced","Output",FALSE,"Support activities for forestry [BS115300]",4.52272280207986
+"461","Manitoba","MB","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",2.36604085379924
+"462","Manitoba","MB","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",3.80169098752124
+"463","Manitoba","MB","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",1.60004035386533
+"464","Manitoba","MB","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",2.26417054563749
+"465","Manitoba","MB","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",31.997326682893
+"466","Manitoba","MB","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",51.4124463572972
+"467","Manitoba","MB","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",21.6382628500398
+"468","Manitoba","MB","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",30.6196761134599
+"469","Manitoba","MB","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",18.3566471658222
+"470","Manitoba","MB","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",24.1144014517902
+"471","Manitoba","MB","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",9.37803289432597
+"472","Manitoba","MB","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",13.0192025696481
+"473","Manitoba","MB","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",4.1630100432056
+"474","Manitoba","MB","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",5.46878166382176
+"475","Manitoba","MB","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",2.1267960740282
+"476","Manitoba","MB","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",2.95255830557582
+"477","Manitoba","MB","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",49.4678662541406
+"478","Manitoba","MB","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",64.9839796472647
+"479","Manitoba","MB","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",25.272113842619
+"480","Manitoba","MB","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",35.0844119644041
+"481","Manitoba","MB","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",39.7250554984299
+"482","Manitoba","MB","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",54.6847318635085
+"483","Manitoba","MB","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",23.2581429177011
+"484","Manitoba","MB","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",32.4387130707183
+"485","Manitoba","MB","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",9.98310492391563
+"486","Manitoba","MB","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",13.7425463370637
+"487","Manitoba","MB","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",5.84488751921348
+"488","Manitoba","MB","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",8.15201066728714
+"489","Manitoba","MB","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",141.55780402924
+"490","Manitoba","MB","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",194.865695199143
+"491","Manitoba","MB","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",82.8789688502293
+"492","Manitoba","MB","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",115.593368724356
+"493","Manitoba","MB","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",64.7857158526718
+"494","Manitoba","MB","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",85.4249383238927
+"495","Manitoba","MB","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",36.956198763638
+"496","Manitoba","MB","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",51.121348782131
+"497","Manitoba","MB","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",29.4214749954495
+"498","Manitoba","MB","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",38.794472729139
+"499","Manitoba","MB","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",16.783111269834
+"500","Manitoba","MB","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",23.2160047185014
+"501","Manitoba","MB","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",402.120069269332
+"502","Manitoba","MB","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",530.226171989045
+"503","Manitoba","MB","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",229.384348249854
+"504","Manitoba","MB","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",317.306369820168
+"505","Manitoba","MB","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",50.8024629554182
+"506","Manitoba","MB","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",68.350401256733
+"507","Manitoba","MB","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",18.9456126301085
+"508","Manitoba","MB","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",27.3067461988857
+"509","Manitoba","MB","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",13.87467362131
+"510","Manitoba","MB","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",18.6671955285902
+"511","Manitoba","MB","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",5.17424109986953
+"512","Manitoba","MB","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",7.45775242239668
+"513","Manitoba","MB","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",120.463230647778
+"514","Manitoba","MB","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",162.073050644877
+"515","Manitoba","MB","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",44.923997209092
+"516","Manitoba","MB","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",64.7499879776177
+"517","Manitoba","MB","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",61.9676600693532
+"518","Manitoba","MB","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",84.9416073703249
+"519","Manitoba","MB","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",40.0112132276125
+"520","Manitoba","MB","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",55.4003766024707
+"521","Manitoba","MB","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",19.5448826121276
+"522","Manitoba","MB","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",26.7909703719714
+"523","Manitoba","MB","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",12.6197191378096
+"524","Manitoba","MB","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",17.4735314541667
+"525","Manitoba","MB","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",190.958117426669
+"526","Manitoba","MB","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",261.754105552461
+"527","Manitoba","MB","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",123.297635336736
+"528","Manitoba","MB","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",170.720527592881
+"529","New Brunswick","NB","Indirect","Output",TRUE,"Forestry and logging [BS113000]",27.7323917007345
+"530","New Brunswick","NB","Indirect","Output",FALSE,"Forestry and logging [BS113000]",40.7754692356978
+"531","New Brunswick","NB","Induced","Output",TRUE,"Forestry and logging [BS113000]",11.2324404452387
+"532","New Brunswick","NB","Induced","Output",FALSE,"Forestry and logging [BS113000]",16.4417400903051
+"533","New Brunswick","NB","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",10.6400149954583
+"534","New Brunswick","NB","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",15.6442188180684
+"535","New Brunswick","NB","Induced","GDP",TRUE,"Forestry and logging [BS113000]",4.30952137351238
+"536","New Brunswick","NB","Induced","GDP",FALSE,"Forestry and logging [BS113000]",6.30815989475732
+"537","New Brunswick","NB","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",103.452754118891
+"538","New Brunswick","NB","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",152.108575359958
+"539","New Brunswick","NB","Induced","Jobs",TRUE,"Forestry and logging [BS113]",41.9014310801614
+"540","New Brunswick","NB","Induced","Jobs",FALSE,"Forestry and logging [BS113]",61.3341724436984
+"541","New Brunswick","NB","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",2.92558543148287
+"542","New Brunswick","NB","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",4.70075220815928
+"543","New Brunswick","NB","Induced","Output",TRUE,"Support activities for forestry [BS115300]",1.97843361053404
+"544","New Brunswick","NB","Induced","Output",FALSE,"Support activities for forestry [BS115300]",2.79962383239208
+"545","New Brunswick","NB","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",1.9474038882727
+"546","New Brunswick","NB","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",3.1290363390058
+"547","New Brunswick","NB","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",1.31693618117675
+"548","New Brunswick","NB","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",1.86355806883337
+"549","New Brunswick","NB","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",26.7146999311353
+"550","New Brunswick","NB","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",42.9244633707195
+"551","New Brunswick","NB","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",18.0658748400659
+"552","New Brunswick","NB","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",25.5644937924444
+"553","New Brunswick","NB","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",32.1468081721051
+"554","New Brunswick","NB","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",42.2299906215531
+"555","New Brunswick","NB","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",16.4231420783037
+"556","New Brunswick","NB","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",22.7996868807011
+"557","New Brunswick","NB","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",10.0358883067189
+"558","New Brunswick","NB","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",13.1837495904011
+"559","New Brunswick","NB","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",5.12712859892112
+"560","New Brunswick","NB","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",7.11781741247431
+"561","New Brunswick","NB","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",91.5594333115496
+"562","New Brunswick","NB","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",120.2780067421
+"563","New Brunswick","NB","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",46.7758283756879
+"564","New Brunswick","NB","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",64.9372839537204
+"565","New Brunswick","NB","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",8.93476378880529
+"566","New Brunswick","NB","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",12.2994205023556
+"567","New Brunswick","NB","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",5.23110693059064
+"568","New Brunswick","NB","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",7.29595554400557
+"569","New Brunswick","NB","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",3.21367349891058
+"570","New Brunswick","NB","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",4.4238798758062
+"571","New Brunswick","NB","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.88153487995618
+"572","New Brunswick","NB","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",2.62422371035459
+"573","New Brunswick","NB","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",23.2189965074741
+"574","New Brunswick","NB","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",31.9628149594693
+"575","New Brunswick","NB","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",13.5942098104251
+"576","New Brunswick","NB","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",18.9601840965517
+"577","New Brunswick","NB","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",8.1866703463911
+"578","New Brunswick","NB","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",10.7947531367697
+"579","New Brunswick","NB","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",4.66998338370809
+"580","New Brunswick","NB","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",6.45996767395338
+"581","New Brunswick","NB","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",2.69374047697412
+"582","New Brunswick","NB","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",3.55190354968653
+"583","New Brunswick","NB","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",1.53661045763697
+"584","New Brunswick","NB","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",2.12558655313923
+"585","New Brunswick","NB","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",65.4446940409125
+"586","New Brunswick","NB","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",86.2938516382916
+"587","New Brunswick","NB","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",37.3321046031429
+"588","New Brunswick","NB","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",51.6413376926106
+"589","New Brunswick","NB","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",61.4929946589407
+"590","New Brunswick","NB","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",82.7336041385464
+"591","New Brunswick","NB","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",22.9324010785853
+"592","New Brunswick","NB","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",33.0529958682257
+"593","New Brunswick","NB","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",17.2187171414978
+"594","New Brunswick","NB","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",23.1663222072591
+"595","New Brunswick","NB","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",6.42132538409606
+"596","New Brunswick","NB","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",9.25520361612976
+"597","New Brunswick","NB","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",89.664912890744
+"598","New Brunswick","NB","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",120.636528589383
+"599","New Brunswick","NB","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",33.4384714306313
+"600","New Brunswick","NB","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",48.195636132866
+"601","New Brunswick","NB","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",17.0256450140922
+"602","New Brunswick","NB","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",23.3377483092794
+"603","New Brunswick","NB","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",10.9931004694073
+"604","New Brunswick","NB","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",15.2212806587346
+"605","New Brunswick","NB","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",4.20197194077028
+"606","New Brunswick","NB","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",5.75981488367592
+"607","New Brunswick","NB","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",2.71312479945895
+"608","New Brunswick","NB","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",3.75665028711996
+"609","New Brunswick","NB","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",27.2910990440398
+"610","New Brunswick","NB","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",37.4090262099463
+"611","New Brunswick","NB","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",17.6212879725469
+"612","New Brunswick","NB","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",24.3988100122386
+"613","Newfoundland and Labrador","NL","Indirect","Output",TRUE,"Forestry and logging [BS113000]",22.112479590328
+"614","Newfoundland and Labrador","NL","Indirect","Output",FALSE,"Forestry and logging [BS113000]",32.5124043028909
+"615","Newfoundland and Labrador","NL","Induced","Output",TRUE,"Forestry and logging [BS113000]",8.9562095031399
+"616","Newfoundland and Labrador","NL","Induced","Output",FALSE,"Forestry and logging [BS113000]",13.1098552948363
+"617","Newfoundland and Labrador","NL","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",11.4294071634248
+"618","Newfoundland and Labrador","NL","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",16.804877314716
+"619","Newfoundland and Labrador","NL","Induced","GDP",TRUE,"Forestry and logging [BS113000]",4.62924859395209
+"620","Newfoundland and Labrador","NL","Induced","GDP",FALSE,"Forestry and logging [BS113000]",6.77616788321665
+"621","Newfoundland and Labrador","NL","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",76.4838903542726
+"622","Newfoundland and Labrador","NL","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",112.455735943054
+"623","Newfoundland and Labrador","NL","Induced","Jobs",TRUE,"Forestry and logging [BS113]",30.9782420750167
+"624","Newfoundland and Labrador","NL","Induced","Jobs",FALSE,"Forestry and logging [BS113]",45.345106180187
+"625","Newfoundland and Labrador","NL","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",1.92641239673307
+"626","Newfoundland and Labrador","NL","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",3.09530777338417
+"627","Newfoundland and Labrador","NL","Induced","Output",TRUE,"Support activities for forestry [BS115300]",1.30274063865377
+"628","Newfoundland and Labrador","NL","Induced","Output",FALSE,"Support activities for forestry [BS115300]",1.84347036968113
+"629","Newfoundland and Labrador","NL","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",1.07687649506818
+"630","Newfoundland and Labrador","NL","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",1.73029627083587
+"631","Newfoundland and Labrador","NL","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",0.72824010856422
+"632","Newfoundland and Labrador","NL","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",1.03051138677827
+"633","Newfoundland and Labrador","NL","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",13.4609561883522
+"634","Newfoundland and Labrador","NL","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",21.6287033854484
+"635","Newfoundland and Labrador","NL","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",9.10300135705275
+"636","Newfoundland and Labrador","NL","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",12.8813923347284
+"637","Newfoundland and Labrador","NL","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",11.3559817391002
+"638","Newfoundland and Labrador","NL","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",14.9179041282507
+"639","Newfoundland and Labrador","NL","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",5.80153713990485
+"640","Newfoundland and Labrador","NL","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",8.05407574177494
+"641","Newfoundland and Labrador","NL","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",3.75332217356886
+"642","Newfoundland and Labrador","NL","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",4.93059091095142
+"643","Newfoundland and Labrador","NL","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",1.91749498090629
+"644","Newfoundland and Labrador","NL","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",2.66199275093253
+"645","Newfoundland and Labrador","NL","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",39.497169384649
+"646","Newfoundland and Labrador","NL","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",51.8858694698958
+"647","Newfoundland and Labrador","NL","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",20.1782902060488
+"648","Newfoundland and Labrador","NL","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",28.0128306929528
+"649","Newfoundland and Labrador","NL","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",2.74265392049106
+"650","Newfoundland and Labrador","NL","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",3.77548356709991
+"651","Newfoundland and Labrador","NL","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.60576331628021
+"652","Newfoundland and Labrador","NL","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",2.23959821988433
+"653","Newfoundland and Labrador","NL","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",0.961653811744505
+"654","Newfoundland and Labrador","NL","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.3237937664517
+"655","Newfoundland and Labrador","NL","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",0.563027074733471
+"656","Newfoundland and Labrador","NL","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",0.785267929299067
+"657","Newfoundland and Labrador","NL","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",17.2493957263588
+"658","Newfoundland and Labrador","NL","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",23.745179667295
+"659","Newfoundland and Labrador","NL","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",10.0991403539636
+"660","Newfoundland and Labrador","NL","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",14.085523395499
+"661","Newfoundland and Labrador","NL","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",4.22491152398006
+"662","Newfoundland and Labrador","NL","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",5.5708700847058
+"663","Newfoundland and Labrador","NL","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",2.41004777031499
+"664","Newfoundland and Labrador","NL","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",3.33380858339504
+"665","Newfoundland and Labrador","NL","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",1.45705282044953
+"666","Newfoundland and Labrador","NL","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",1.92123596511008
+"667","Newfoundland and Labrador","NL","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",0.831157500275296
+"668","Newfoundland and Labrador","NL","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",1.14973654991444
+"669","Newfoundland and Labrador","NL","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",34.9367683713735
+"670","Newfoundland and Labrador","NL","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",46.0668103158364
+"671","Newfoundland and Labrador","NL","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",19.9292411776047
+"672","Newfoundland and Labrador","NL","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",27.5680325165359
+"673","Newfoundland and Labrador","NL","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",49.3128979723268
+"674","Newfoundland and Labrador","NL","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",66.3463180219965
+"675","Newfoundland and Labrador","NL","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",18.39011355555
+"676","Newfoundland and Labrador","NL","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",26.506092636563
+"677","Newfoundland and Labrador","NL","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",19.652878469133
+"678","Newfoundland and Labrador","NL","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",26.4412796362619
+"679","Newfoundland and Labrador","NL","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",7.32908998663189
+"680","Newfoundland and Labrador","NL","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",10.5635855668081
+"681","Newfoundland and Labrador","NL","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",97.2051059348367
+"682","Newfoundland and Labrador","NL","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",130.781218238962
+"683","Newfoundland and Labrador","NL","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",36.2504133771267
+"684","Newfoundland and Labrador","NL","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",52.2485525815494
+"685","Newfoundland and Labrador","NL","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",2.16627848899113
+"686","Newfoundland and Labrador","NL","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",2.96940656885749
+"687","Newfoundland and Labrador","NL","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",1.39872040410125
+"688","Newfoundland and Labrador","NL","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",1.93669801282836
+"689","Newfoundland and Labrador","NL","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",0.554164264625638
+"690","Newfoundland and Labrador","NL","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",0.759615633893776
+"691","Newfoundland and Labrador","NL","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",0.357812196397993
+"692","Newfoundland and Labrador","NL","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",0.495434375374698
+"693","Newfoundland and Labrador","NL","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",5.66758907003494
+"694","Newfoundland and Labrador","NL","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",7.7687962557318
+"695","Newfoundland and Labrador","NL","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",3.65944291770675
+"696","Newfoundland and Labrador","NL","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",5.06694247542304
+"697","Northwest Territories","NW","Indirect","Output",TRUE,"Forestry and logging [BS113000]",NA
+"698","Northwest Territories","NW","Indirect","Output",FALSE,"Forestry and logging [BS113000]",NA
+"699","Northwest Territories","NW","Induced","Output",TRUE,"Forestry and logging [BS113000]",NA
+"700","Northwest Territories","NW","Induced","Output",FALSE,"Forestry and logging [BS113000]",NA
+"701","Northwest Territories","NW","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",NA
+"702","Northwest Territories","NW","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",NA
+"703","Northwest Territories","NW","Induced","GDP",TRUE,"Forestry and logging [BS113000]",NA
+"704","Northwest Territories","NW","Induced","GDP",FALSE,"Forestry and logging [BS113000]",NA
+"705","Northwest Territories","NW","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",NA
+"706","Northwest Territories","NW","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",NA
+"707","Northwest Territories","NW","Induced","Jobs",TRUE,"Forestry and logging [BS113]",NA
+"708","Northwest Territories","NW","Induced","Jobs",FALSE,"Forestry and logging [BS113]",NA
+"709","Northwest Territories","NW","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",NA
+"710","Northwest Territories","NW","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",NA
+"711","Northwest Territories","NW","Induced","Output",TRUE,"Support activities for forestry [BS115300]",NA
+"712","Northwest Territories","NW","Induced","Output",FALSE,"Support activities for forestry [BS115300]",NA
+"713","Northwest Territories","NW","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",NA
+"714","Northwest Territories","NW","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",NA
+"715","Northwest Territories","NW","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",NA
+"716","Northwest Territories","NW","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",NA
+"717","Northwest Territories","NW","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",NA
+"718","Northwest Territories","NW","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",NA
+"719","Northwest Territories","NW","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",NA
+"720","Northwest Territories","NW","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",NA
+"721","Northwest Territories","NW","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",NA
+"722","Northwest Territories","NW","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",NA
+"723","Northwest Territories","NW","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",NA
+"724","Northwest Territories","NW","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",NA
+"725","Northwest Territories","NW","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",NA
+"726","Northwest Territories","NW","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",NA
+"727","Northwest Territories","NW","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",NA
+"728","Northwest Territories","NW","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",NA
+"729","Northwest Territories","NW","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",NA
+"730","Northwest Territories","NW","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",NA
+"731","Northwest Territories","NW","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",NA
+"732","Northwest Territories","NW","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",NA
+"733","Northwest Territories","NW","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",NA
+"734","Northwest Territories","NW","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",NA
+"735","Northwest Territories","NW","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",NA
+"736","Northwest Territories","NW","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",NA
+"737","Northwest Territories","NW","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",NA
+"738","Northwest Territories","NW","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",NA
+"739","Northwest Territories","NW","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",NA
+"740","Northwest Territories","NW","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",NA
+"741","Northwest Territories","NW","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",NA
+"742","Northwest Territories","NW","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",NA
+"743","Northwest Territories","NW","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",NA
+"744","Northwest Territories","NW","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",NA
+"745","Nova Scotia","NS","Indirect","Output",TRUE,"Forestry and logging [BS113000]",15.8895206836705
+"746","Nova Scotia","NS","Indirect","Output",FALSE,"Forestry and logging [BS113000]",23.3626680597416
+"747","Nova Scotia","NS","Induced","Output",TRUE,"Forestry and logging [BS113000]",6.43572673820237
+"748","Nova Scotia","NS","Induced","Output",FALSE,"Forestry and logging [BS113000]",9.42044134020789
+"749","Nova Scotia","NS","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",8.25354160797884
+"750","Nova Scotia","NS","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",12.1353410680688
+"751","Nova Scotia","NS","Induced","GDP",TRUE,"Forestry and logging [BS113000]",3.34292893214352
+"752","Nova Scotia","NS","Induced","GDP",FALSE,"Forestry and logging [BS113000]",4.89328823158489
+"753","Nova Scotia","NS","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",93.7241960765203
+"754","Nova Scotia","NS","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",137.804489241274
+"755","Nova Scotia","NS","Induced","Jobs",TRUE,"Forestry and logging [BS113]",37.9610767822636
+"756","Nova Scotia","NS","Induced","Jobs",FALSE,"Forestry and logging [BS113]",55.5663892495115
+"757","Nova Scotia","NS","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",6.1920046298864
+"758","Nova Scotia","NS","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",9.94914697196783
+"759","Nova Scotia","NS","Induced","Output",TRUE,"Support activities for forestry [BS115300]",4.18735680883548
+"760","Nova Scotia","NS","Induced","Output",FALSE,"Support activities for forestry [BS115300]",5.9254067734831
+"761","Nova Scotia","NS","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",3.81245201604918
+"762","Nova Scotia","NS","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",6.1257456507981
+"763","Nova Scotia","NS","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",2.57817909739757
+"764","Nova Scotia","NS","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",3.64830621903
+"765","Nova Scotia","NS","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",41.6950235889543
+"766","Nova Scotia","NS","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",66.9944456572189
+"767","Nova Scotia","NS","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",28.1963518045637
+"768","Nova Scotia","NS","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",39.899836961049
+"769","Nova Scotia","NS","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",27.6780935607408
+"770","Nova Scotia","NS","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",36.3596169559005
+"771","Nova Scotia","NS","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",14.1401678378467
+"772","Nova Scotia","NS","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",19.6303117641155
+"773","Nova Scotia","NS","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",7.91683954003358
+"774","Nova Scotia","NS","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",10.4000390252761
+"775","Nova Scotia","NS","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",4.04455023593683
+"776","Nova Scotia","NS","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",5.61491086863631
+"777","Nova Scotia","NS","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",77.1977535234876
+"778","Nova Scotia","NS","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",101.411635949933
+"779","Nova Scotia","NS","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",39.4387420192542
+"780","Nova Scotia","NS","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",54.7514577125683
+"781","Nova Scotia","NS","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",6.06670917554266
+"782","Nova Scotia","NS","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",8.35131280235844
+"783","Nova Scotia","NS","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",3.55192427737394
+"784","Nova Scotia","NS","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",4.95395754039162
+"785","Nova Scotia","NS","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",2.12157035918363
+"786","Nova Scotia","NS","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",2.92051212429672
+"787","Nova Scotia","NS","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.24213260383744
+"788","Nova Scotia","NS","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.73243337932199
+"789","Nova Scotia","NS","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",26.7524434757393
+"790","Nova Scotia","NS","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",36.8268887181868
+"791","Nova Scotia","NS","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",15.6629649965136
+"792","Nova Scotia","NS","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",21.8455286458799
+"793","Nova Scotia","NS","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",8.47508017753359
+"794","Nova Scotia","NS","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",11.1750436331097
+"795","Nova Scotia","NS","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",4.83450315330248
+"796","Nova Scotia","NS","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",6.68754715464569
+"797","Nova Scotia","NS","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",2.80305035733733
+"798","Nova Scotia","NS","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",3.69603701591933
+"799","Nova Scotia","NS","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",1.59896490741598
+"800","Nova Scotia","NS","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",2.21184119192547
+"801","Nova Scotia","NS","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",57.1031123630557
+"802","Nova Scotia","NS","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",75.2948360223324
+"803","Nova Scotia","NS","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",32.5737539940204
+"804","Nova Scotia","NS","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",45.0591320206366
+"805","Nova Scotia","NS","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",53.1296293792888
+"806","Nova Scotia","NS","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",71.4814061255783
+"807","Nova Scotia","NS","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",19.8134759388448
+"808","Nova Scotia","NS","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",28.5576174992588
+"809","Nova Scotia","NS","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",9.53671464912818
+"810","Nova Scotia","NS","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",12.8308399833074
+"811","Nova Scotia","NS","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",3.55649885842776
+"812","Nova Scotia","NS","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",5.12606341002537
+"813","Nova Scotia","NS","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",80.1250397021416
+"814","Nova Scotia","NS","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",107.801439059343
+"815","Nova Scotia","NS","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",29.8807946673959
+"816","Nova Scotia","NS","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",43.0678749816139
+"817","Nova Scotia","NS","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",16.4623605563766
+"818","Nova Scotia","NS","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",22.5656312535194
+"819","Nova Scotia","NS","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",10.6293995563789
+"820","Nova Scotia","NS","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",14.7176926411002
+"821","Nova Scotia","NS","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",5.51877271880933
+"822","Nova Scotia","NS","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",7.5648075935499
+"823","Nova Scotia","NS","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",3.56335533340908
+"824","Nova Scotia","NS","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",4.93389756307236
+"825","Nova Scotia","NS","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",42.0336631808954
+"826","Nova Scotia","NS","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",57.6172621372528
+"827","Nova Scotia","NS","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",27.1402511953201
+"828","Nova Scotia","NS","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",37.5789688943683
+"829","Ontario","ON","Indirect","Output",TRUE,"Forestry and logging [BS113000]",32.5666843901157
+"830","Ontario","ON","Indirect","Output",FALSE,"Forestry and logging [BS113000]",47.8834228142923
+"831","Ontario","ON","Induced","Output",TRUE,"Forestry and logging [BS113000]",13.1904722412085
+"832","Ontario","ON","Induced","Output",FALSE,"Forestry and logging [BS113000]",19.3078536508301
+"833","Ontario","ON","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",11.0803473455025
+"834","Ontario","ON","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",16.2916479466651
+"835","Ontario","ON","Induced","GDP",TRUE,"Forestry and logging [BS113000]",4.48786902384692
+"836","Ontario","ON","Induced","GDP",FALSE,"Forestry and logging [BS113000]",6.56922032297087
+"837","Ontario","ON","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",98.2204872039152
+"838","Ontario","ON","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",144.41547261834
+"839","Ontario","ON","Induced","Jobs",TRUE,"Forestry and logging [BS113]",39.7822079294766
+"840","Ontario","ON","Induced","Jobs",FALSE,"Forestry and logging [BS113]",58.2321113727503
+"841","Ontario","ON","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",7.34477371651489
+"842","Ontario","ON","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",11.8013854235108
+"843","Ontario","ON","Induced","Output",TRUE,"Support activities for forestry [BS115300]",4.96691945008587
+"844","Ontario","ON","Induced","Output",FALSE,"Support activities for forestry [BS115300]",7.02854318284585
+"845","Ontario","ON","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",4.5431105653752
+"846","Ontario","ON","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",7.29974821185607
+"847","Ontario","ON","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",3.07228855537294
+"848","Ontario","ON","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",4.34750613506094
+"849","Ontario","ON","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",45.833058444208
+"850","Ontario","ON","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",73.6433290820364
+"851","Ontario","ON","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",30.9947070161719
+"852","Ontario","ON","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",43.8597079924567
+"853","Ontario","ON","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",31.8871238147246
+"854","Ontario","ON","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",41.8888535507113
+"855","Ontario","ON","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",16.2904746895558
+"856","Ontario","ON","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",22.6155092788567
+"857","Ontario","ON","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",9.52405764144338
+"858","Ontario","ON","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",12.5113778862279
+"859","Ontario","ON","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",4.86564485562536
+"860","Ontario","ON","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",6.75480846795492
+"861","Ontario","ON","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",64.7186563839785
+"862","Ontario","ON","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",85.0183395347632
+"863","Ontario","ON","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",33.0634283571983
+"864","Ontario","ON","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",45.9008276341039
+"865","Ontario","ON","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",29.9947243355221
+"866","Ontario","ON","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",41.2901489255997
+"867","Ontario","ON","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",17.5612488546478
+"868","Ontario","ON","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",24.4931125746004
+"869","Ontario","ON","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",11.4850275467997
+"870","Ontario","ON","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",15.8100635470875
+"871","Ontario","ON","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",6.72423005444916
+"872","Ontario","ON","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",9.37845167301674
+"873","Ontario","ON","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",72.2258964586774
+"874","Ontario","ON","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",99.4247517564932
+"875","Ontario","ON","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",42.2866677243887
+"876","Ontario","ON","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",58.9782720779596
+"877","Ontario","ON","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",53.1628871907141
+"878","Ontario","ON","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",70.0993467404825
+"879","Ontario","ON","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",30.326101981134
+"880","Ontario","ON","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",41.9499647811563
+"881","Ontario","ON","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",18.845330167067
+"882","Ontario","ON","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",24.8490141079255
+"883","Ontario","ON","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",10.750082147804
+"884","Ontario","ON","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",14.8705418116533
+"885","Ontario","ON","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",245.314456117172
+"886","Ontario","ON","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",323.46593701958
+"887","Ontario","ON","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",139.936553614327
+"888","Ontario","ON","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",193.57362510254
+"889","Ontario","ON","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",82.3475143958134
+"890","Ontario","ON","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",110.791590092546
+"891","Ontario","ON","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",30.7096155980558
+"892","Ontario","ON","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",44.2624736066215
+"893","Ontario","ON","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",25.1741699836586
+"894","Ontario","ON","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",33.8697086635001
+"895","Ontario","ON","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",9.38812894196567
+"896","Ontario","ON","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",13.5313256586521
+"897","Ontario","ON","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",107.488518979079
+"898","Ontario","ON","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",144.616677525247
+"899","Ontario","ON","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",40.085376265099
+"900","Ontario","ON","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",57.7759725868325
+"901","Ontario","ON","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",104.442096763275
+"902","Ontario","ON","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",143.163055798311
+"903","Ontario","ON","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",67.4360625987398
+"904","Ontario","ON","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",93.3734061825373
+"905","Ontario","ON","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",34.8831438138168
+"906","Ontario","ON","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",47.8157526419365
+"907","Ontario","ON","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",22.5233114115013
+"908","Ontario","ON","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",31.1862558986531
+"909","Ontario","ON","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",275.45107995421
+"910","Ontario","ON","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",377.572066736369
+"911","Ontario","ON","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",177.8529620368
+"912","Ontario","ON","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",246.258992964098
+"913","Prince Edward Island","PE","Indirect","Output",TRUE,"Forestry and logging [BS113000]",10.9209561217313
+"914","Prince Edward Island","PE","Indirect","Output",FALSE,"Forestry and logging [BS113000]",16.0572919628229
+"915","Prince Edward Island","PE","Induced","Output",TRUE,"Forestry and logging [BS113000]",4.42331085490775
+"916","Prince Edward Island","PE","Induced","Output",FALSE,"Forestry and logging [BS113000]",6.47472183534668
+"917","Prince Edward Island","PE","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",3.75147347693061
+"918","Prince Edward Island","PE","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",5.51586365135139
+"919","Prince Edward Island","PE","Induced","GDP",TRUE,"Forestry and logging [BS113000]",1.51945792725839
+"920","Prince Edward Island","PE","Induced","GDP",FALSE,"Forestry and logging [BS113000]",2.22414108847787
+"921","Prince Edward Island","PE","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",59.3983300514014
+"922","Prince Edward Island","PE","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",87.3345078130637
+"923","Prince Edward Island","PE","Induced","Jobs",TRUE,"Forestry and logging [BS113]",24.0580838482578
+"924","Prince Edward Island","PE","Induced","Jobs",FALSE,"Forestry and logging [BS113]",35.2155672342329
+"925","Prince Edward Island","PE","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",1.25333212724943
+"926","Prince Edward Island","PE","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",2.01382044814821
+"927","Prince Edward Island","PE","Induced","Output",TRUE,"Support activities for forestry [BS115300]",0.847568619609774
+"928","Prince Edward Island","PE","Induced","Output",FALSE,"Support activities for forestry [BS115300]",1.19936969045257
+"929","Prince Edward Island","PE","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",0.747956269487562
+"930","Prince Edward Island","PE","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",1.2017960738949
+"931","Prince Edward Island","PE","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",0.505807079444543
+"932","Prince Edward Island","PE","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",0.715752879786212
+"933","Prince Edward Island","PE","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",33.3548066122831
+"934","Prince Edward Island","PE","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",53.5936087007186
+"935","Prince Edward Island","PE","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",22.5562616509053
+"936","Prince Edward Island","PE","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",31.9187095039797
+"937","Prince Edward Island","PE","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",1.7548720008114
+"938","Prince Edward Island","PE","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",2.30530594949075
+"939","Prince Edward Island","PE","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",0.896527955256575
+"940","Prince Edward Island","PE","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",1.24461912112718
+"941","Prince Edward Island","PE","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",0.811075294492666
+"942","Prince Edward Island","PE","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",1.0654775396806
+"943","Prince Edward Island","PE","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",0.414361659992535
+"944","Prince Edward Island","PE","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",0.575244131613403
+"945","Prince Edward Island","PE","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",25.0696000115915
+"946","Prince Edward Island","PE","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",32.9329421355822
+"947","Prince Edward Island","PE","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",12.8075422179511
+"948","Prince Edward Island","PE","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",17.7802731589597
+"949","Prince Edward Island","PE","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",6.6298908896461
+"950","Prince Edward Island","PE","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",9.12657769852442
+"951","Prince Edward Island","PE","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",3.8816547366749
+"952","Prince Edward Island","PE","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",5.41384085084285
+"953","Prince Edward Island","PE","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.96711048374115
+"954","Prince Edward Island","PE","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",2.70788569077098
+"955","Prince Edward Island","PE","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.15169975703541
+"956","Prince Edward Island","PE","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",1.60630442827205
+"957","Prince Edward Island","PE","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",30.5994964137512
+"958","Prince Edward Island","PE","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",42.1226663008819
+"959","Prince Edward Island","PE","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",17.9153295538842
+"960","Prince Edward Island","PE","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",24.9869577731208
+"961","Prince Edward Island","PE","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",6.60710651072148
+"962","Prince Edward Island","PE","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",8.71197699599851
+"963","Prince Edward Island","PE","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",3.76894101190487
+"964","Prince Edward Island","PE","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",5.21355968564716
+"965","Prince Edward Island","PE","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",2.25117479451175
+"966","Prince Edward Island","PE","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",2.96834673270863
+"967","Prince Edward Island","PE","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",1.28415441679861
+"968","Prince Edward Island","PE","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",1.77636521145319
+"969","Prince Edward Island","PE","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",69.5484895865419
+"970","Prince Edward Island","PE","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",91.7050210105106
+"971","Prince Edward Island","PE","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",39.6730632832091
+"972","Prince Edward Island","PE","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",54.8795756383911
+"973","Prince Edward Island","PE","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",0
+"974","Prince Edward Island","PE","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",0
+"975","Prince Edward Island","PE","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",0
+"976","Prince Edward Island","PE","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",0
+"977","Prince Edward Island","PE","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",0
+"978","Prince Edward Island","PE","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",0
+"979","Prince Edward Island","PE","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",0
+"980","Prince Edward Island","PE","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",0
+"981","Prince Edward Island","PE","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",0
+"982","Prince Edward Island","PE","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",0
+"983","Prince Edward Island","PE","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",0
+"984","Prince Edward Island","PE","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",0
+"985","Prince Edward Island","PE","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",59.1536749724049
+"986","Prince Edward Island","PE","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",81.0843628498215
+"987","Prince Edward Island","PE","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",38.1942823057847
+"988","Prince Edward Island","PE","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",52.8846154142929
+"989","Prince Edward Island","PE","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",20.2143853322966
+"990","Prince Edward Island","PE","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",27.7086851465217
+"991","Prince Edward Island","PE","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",13.0520029462214
+"992","Prince Edward Island","PE","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",18.0720808070425
+"993","Prince Edward Island","PE","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",221.294323637774
+"994","Prince Edward Island","PE","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",303.337184761922
+"995","Prince Edward Island","PE","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",142.88508488495
+"996","Prince Edward Island","PE","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",197.841726729729
+"997","Quebec","QC","Indirect","Output",TRUE,"Forestry and logging [BS113000]",31.4120199474287
+"998","Quebec","QC","Indirect","Output",FALSE,"Forestry and logging [BS113000]",46.1856974623499
+"999","Quebec","QC","Induced","Output",TRUE,"Forestry and logging [BS113000]",12.7227989252294
+"1000","Quebec","QC","Induced","Output",FALSE,"Forestry and logging [BS113000]",18.6232862012195
+"1001","Quebec","QC","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",10.6388475380607
+"1002","Quebec","QC","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",15.6425022829886
+"1003","Quebec","QC","Induced","GDP",TRUE,"Forestry and logging [BS113000]",4.30904851867056
+"1004","Quebec","QC","Induced","GDP",FALSE,"Forestry and logging [BS113000]",6.30746774273145
+"1005","Quebec","QC","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",107.41404376023
+"1006","Quebec","QC","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",157.932935755814
+"1007","Quebec","QC","Induced","Jobs",TRUE,"Forestry and logging [BS113]",43.5058707715821
+"1008","Quebec","QC","Induced","Jobs",FALSE,"Forestry and logging [BS113]",63.6827075216734
+"1009","Quebec","QC","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",8.86368905053276
+"1010","Quebec","QC","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",14.2419378454487
+"1011","Quebec","QC","Induced","Output",TRUE,"Support activities for forestry [BS115300]",5.99408929993481
+"1012","Quebec","QC","Induced","Output",FALSE,"Support activities for forestry [BS115300]",8.48206134804495
+"1013","Quebec","QC","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",4.28898875997162
+"1014","Quebec","QC","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",6.89143211038887
+"1015","Quebec","QC","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",2.90043812312451
+"1016","Quebec","QC","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",4.10432558901284
+"1017","Quebec","QC","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",53.1771606015035
+"1018","Quebec","QC","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",85.4436354622044
+"1019","Quebec","QC","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",35.9611723228522
+"1020","Quebec","QC","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",50.8876085301843
+"1021","Quebec","QC","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",41.3636798576428
+"1022","Quebec","QC","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",54.3378304654498
+"1023","Quebec","QC","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",21.1318519570166
+"1024","Quebec","QC","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",29.3366278835161
+"1025","Quebec","QC","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",12.0673378248953
+"1026","Quebec","QC","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",15.8523844869502
+"1027","Quebec","QC","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",6.16495431036649
+"1028","Quebec","QC","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",8.5585953796183
+"1029","Quebec","QC","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",103.880375305847
+"1030","Quebec","QC","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",136.463540997391
+"1031","Quebec","QC","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",53.0703438320143
+"1032","Quebec","QC","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",73.6757446444775
+"1033","Quebec","QC","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",19.3204560554264
+"1034","Quebec","QC","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",26.5961606753061
+"1035","Quebec","QC","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",11.3117004503627
+"1036","Quebec","QC","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",15.7767112597784
+"1037","Quebec","QC","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",6.68579717195739
+"1038","Quebec","QC","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",9.20353718968987
+"1039","Quebec","QC","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",3.91438663063147
+"1040","Quebec","QC","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",5.4594928412049
+"1041","Quebec","QC","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",52.0137014852441
+"1042","Quebec","QC","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",71.6010407854954
+"1043","Quebec","QC","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",30.4528738259476
+"1044","Quebec","QC","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",42.4733840407728
+"1045","Quebec","QC","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",40.5449533166885
+"1046","Quebec","QC","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",53.4616325657283
+"1047","Quebec","QC","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",23.1283599156552
+"1048","Quebec","QC","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",31.9933595326966
+"1049","Quebec","QC","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",13.2458005124898
+"1050","Quebec","QC","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",17.4656045231205
+"1051","Quebec","QC","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",7.55590071175979
+"1052","Quebec","QC","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",10.4520445438529
+"1053","Quebec","QC","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",177.096005114388
+"1054","Quebec","QC","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",233.514673955408
+"1055","Quebec","QC","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",101.022194153677
+"1056","Quebec","QC","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",139.74356115726
+"1057","Quebec","QC","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",89.8051228034405
+"1058","Quebec","QC","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",120.825169124417
+"1059","Quebec","QC","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",33.4907594997192
+"1060","Quebec","QC","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",48.2710001266144
+"1061","Quebec","QC","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",31.228856639973
+"1062","Quebec","QC","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",42.0157755738001
+"1063","Quebec","QC","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",11.6460853738789
+"1064","Quebec","QC","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",16.7857700737358
+"1065","Quebec","QC","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",145.421163190968
+"1066","Quebec","QC","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",195.651830188746
+"1067","Quebec","QC","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",54.231485360338
+"1068","Quebec","QC","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",78.1650842142684
+"1069","Quebec","QC","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",33.1418225695146
+"1070","Quebec","QC","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",45.4288523576014
+"1071","Quebec","QC","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",21.3989769517917
+"1072","Quebec","QC","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",29.6294784987601
+"1073","Quebec","QC","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",10.5817196328508
+"1074","Quebec","QC","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",14.5047961041375
+"1075","Quebec","QC","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",6.83239354319588
+"1076","Quebec","QC","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",9.46027737864542
+"1077","Quebec","QC","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",85.2870353564843
+"1078","Quebec","QC","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",116.906429303957
+"1079","Quebec","QC","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",55.0680428045867
+"1080","Quebec","QC","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",76.2483829915377
+"1081","Saskatchewan","SK","Indirect","Output",TRUE,"Forestry and logging [BS113000]",13.9692184213193
+"1082","Saskatchewan","SK","Indirect","Output",FALSE,"Forestry and logging [BS113000]",20.5392106866196
+"1083","Saskatchewan","SK","Induced","Output",TRUE,"Forestry and logging [BS113000]",5.65794741676915
+"1084","Saskatchewan","SK","Induced","Output",FALSE,"Forestry and logging [BS113000]",8.28194917432781
+"1085","Saskatchewan","SK","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",4.59795215247177
+"1086","Saskatchewan","SK","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",6.76045753873285
+"1087","Saskatchewan","SK","Induced","GDP",TRUE,"Forestry and logging [BS113000]",1.86230687493602
+"1088","Saskatchewan","SK","Induced","GDP",FALSE,"Forestry and logging [BS113000]",2.72599403089339
+"1089","Saskatchewan","SK","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",35.9395673275769
+"1090","Saskatchewan","SK","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",52.8426375093746
+"1091","Saskatchewan","SK","Induced","Jobs",TRUE,"Forestry and logging [BS113]",14.556589781038
+"1092","Saskatchewan","SK","Induced","Jobs",FALSE,"Forestry and logging [BS113]",21.3075392607551
+"1093","Saskatchewan","SK","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",7.26904000440069
+"1094","Saskatchewan","SK","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",11.6796985260366
+"1095","Saskatchewan","SK","Induced","Output",TRUE,"Support activities for forestry [BS115300]",4.91570435997609
+"1096","Saskatchewan","SK","Induced","Output",FALSE,"Support activities for forestry [BS115300]",6.95607019912478
+"1097","Saskatchewan","SK","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",1.97006124058584
+"1098","Saskatchewan","SK","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",3.16544156504052
+"1099","Saskatchewan","SK","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",1.33225826572764
+"1100","Saskatchewan","SK","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",1.88523990482837
+"1101","Saskatchewan","SK","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",12.6166161043211
+"1102","Saskatchewan","SK","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",20.272040383324
+"1103","Saskatchewan","SK","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",8.53201451011535
+"1104","Saskatchewan","SK","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",12.0734054626105
+"1105","Saskatchewan","SK","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",13.0339358163042
+"1106","Saskatchewan","SK","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",17.1221660432862
+"1107","Saskatchewan","SK","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",6.65876931248189
+"1108","Saskatchewan","SK","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",9.24414187075519
+"1109","Saskatchewan","SK","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",4.77642820007466
+"1110","Saskatchewan","SK","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",6.27460483833367
+"1111","Saskatchewan","SK","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",2.44017877410022
+"1112","Saskatchewan","SK","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",3.38761679812276
+"1113","Saskatchewan","SK","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",38.7922872658077
+"1114","Saskatchewan","SK","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",50.9598937055646
+"1115","Saskatchewan","SK","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",19.8181804519416
+"1116","Saskatchewan","SK","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",27.5129026282022
+"1117","Saskatchewan","SK","Indirect","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",29.3762118064413
+"1118","Saskatchewan","SK","Indirect","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",40.4387167153075
+"1119","Saskatchewan","SK","Induced","Output",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",17.1991234248087
+"1120","Saskatchewan","SK","Induced","Output",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",23.9880471892974
+"1121","Saskatchewan","SK","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",10.5020900307838
+"1122","Saskatchewan","SK","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",14.4569710509917
+"1123","Saskatchewan","SK","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",6.14874184078077
+"1124","Saskatchewan","SK","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",8.57580388188284
+"1125","Saskatchewan","SK","Indirect","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",67.499000711003
+"1126","Saskatchewan","SK","Indirect","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",92.9177998274127
+"1127","Saskatchewan","SK","Induced","Jobs",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",39.519174627725
+"1128","Saskatchewan","SK","Induced","Jobs",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS3212]",55.1183803056229
+"1129","Saskatchewan","SK","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",5.21387286822573
+"1130","Saskatchewan","SK","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",6.8748915148158
+"1131","Saskatchewan","SK","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",2.97418836097561
+"1132","Saskatchewan","SK","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",4.11418180526696
+"1133","Saskatchewan","SK","Indirect","GDP",TRUE,"Other wood product manufacturing [BS321900]",2.16610102931806
+"1134","Saskatchewan","SK","Indirect","GDP",FALSE,"Other wood product manufacturing [BS321900]",2.85617044432464
+"1135","Saskatchewan","SK","Induced","GDP",TRUE,"Other wood product manufacturing [BS321900]",1.2356251548357
+"1136","Saskatchewan","SK","Induced","GDP",FALSE,"Other wood product manufacturing [BS321900]",1.7092348947555
+"1137","Saskatchewan","SK","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",30.1223424389543
+"1138","Saskatchewan","SK","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",39.7186202413896
+"1139","Saskatchewan","SK","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",17.1829123094339
+"1140","Saskatchewan","SK","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",23.7690477551937
+"1141","Saskatchewan","SK","Indirect","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",26.8476304462989
+"1142","Saskatchewan","SK","Indirect","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",36.1212076549784
+"1143","Saskatchewan","SK","Induced","Output",TRUE,"Pulp, paper and paperboard mills [BS322100]",10.012207615175
+"1144","Saskatchewan","SK","Induced","Output",FALSE,"Pulp, paper and paperboard mills [BS322100]",14.4308245700983
+"1145","Saskatchewan","SK","Indirect","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",7.04723531401652
+"1146","Saskatchewan","SK","Indirect","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",9.48145687122195
+"1147","Saskatchewan","SK","Induced","GDP",TRUE,"Pulp, paper and paperboard mills [BS322100]",2.62810467456555
+"1148","Saskatchewan","SK","Induced","GDP",FALSE,"Pulp, paper and paperboard mills [BS322100]",3.7879475704268
+"1149","Saskatchewan","SK","Indirect","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",19.9541883891352
+"1150","Saskatchewan","SK","Indirect","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",26.8466665552555
+"1151","Saskatchewan","SK","Induced","Jobs",TRUE,"Pulp, paper and paperboard mills [BS3221]",7.44145660615937
+"1152","Saskatchewan","SK","Induced","Jobs",FALSE,"Pulp, paper and paperboard mills [BS3221]",10.7255421538328
+"1153","Saskatchewan","SK","Indirect","Output",TRUE,"Converted paper product manufacturing [BS322200]",1.68412891549186
+"1154","Saskatchewan","SK","Indirect","Output",FALSE,"Converted paper product manufacturing [BS322200]",2.30850441892785
+"1155","Saskatchewan","SK","Induced","Output",TRUE,"Converted paper product manufacturing [BS322200]",1.08740657731981
+"1156","Saskatchewan","SK","Induced","Output",FALSE,"Converted paper product manufacturing [BS322200]",1.50564626873015
+"1157","Saskatchewan","SK","Indirect","GDP",TRUE,"Converted paper product manufacturing [BS322200]",0.445953139616225
+"1158","Saskatchewan","SK","Indirect","GDP",FALSE,"Converted paper product manufacturing [BS322200]",0.611286216850054
+"1159","Saskatchewan","SK","Induced","GDP",TRUE,"Converted paper product manufacturing [BS322200]",0.287942551626741
+"1160","Saskatchewan","SK","Induced","GDP",FALSE,"Converted paper product manufacturing [BS322200]",0.398691379570288
+"1161","Saskatchewan","SK","Indirect","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",5.57441424520282
+"1162","Saskatchewan","SK","Indirect","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",7.64107771062568
+"1163","Saskatchewan","SK","Induced","Jobs",TRUE,"Converted paper product manufacturing [BS3222]",3.59928189533426
+"1164","Saskatchewan","SK","Induced","Jobs",FALSE,"Converted paper product manufacturing [BS3222]",4.9836422446286
+"1165","Yukon","YT","Indirect","Output",TRUE,"Forestry and logging [BS113000]",52.8049685506934
+"1166","Yukon","YT","Indirect","Output",FALSE,"Forestry and logging [BS113000]",77.6401615073741
+"1167","Yukon","YT","Induced","Output",TRUE,"Forestry and logging [BS113000]",21.3875770564231
+"1168","Yukon","YT","Induced","Output",FALSE,"Forestry and logging [BS113000]",31.306552199183
+"1169","Yukon","YT","Indirect","GDP",TRUE,"Forestry and logging [BS113000]",23.3946063199274
+"1170","Yukon","YT","Indirect","GDP",FALSE,"Forestry and logging [BS113000]",34.3975399083303
+"1171","Yukon","YT","Induced","GDP",TRUE,"Forestry and logging [BS113000]",9.47550882246593
+"1172","Yukon","YT","Induced","GDP",FALSE,"Forestry and logging [BS113000]",13.8699914806507
+"1173","Yukon","YT","Indirect","Jobs",TRUE,"Forestry and logging [BS113]",868.942520454448
+"1174","Yukon","YT","Indirect","Jobs",FALSE,"Forestry and logging [BS113]",1277.62291088084
+"1175","Yukon","YT","Induced","Jobs",TRUE,"Forestry and logging [BS113]",351.947470548735
+"1176","Yukon","YT","Induced","Jobs",FALSE,"Forestry and logging [BS113]",515.171112138454
+"1177","Yukon","YT","Indirect","Output",TRUE,"Support activities for forestry [BS115300]",84.930582014993
+"1178","Yukon","YT","Indirect","Output",FALSE,"Support activities for forestry [BS115300]",136.464181374076
+"1179","Yukon","YT","Induced","Output",TRUE,"Support activities for forestry [BS115300]",57.4344936956815
+"1180","Yukon","YT","Induced","Output",FALSE,"Support activities for forestry [BS115300]",81.2738807588286
+"1181","Yukon","YT","Indirect","GDP",TRUE,"Support activities for forestry [BS115300]",67.4258055691548
+"1182","Yukon","YT","Indirect","GDP",FALSE,"Support activities for forestry [BS115300]",108.337976052701
+"1183","Yukon","YT","Induced","GDP",TRUE,"Support activities for forestry [BS115300]",45.5968499568769
+"1184","Yukon","YT","Induced","GDP",FALSE,"Support activities for forestry [BS115300]",64.5227755642608
+"1185","Yukon","YT","Indirect","Jobs",TRUE,"Support activities for forestry [BS1153]",842.822569614434
+"1186","Yukon","YT","Indirect","Jobs",FALSE,"Support activities for forestry [BS1153]",1354.22470065876
+"1187","Yukon","YT","Induced","Jobs",TRUE,"Support activities for forestry [BS1153]",569.960624460962
+"1188","Yukon","YT","Induced","Jobs",FALSE,"Support activities for forestry [BS1153]",806.534694553261
+"1189","Yukon","YT","Indirect","Output",TRUE,"Sawmills and wood preservation [BS321100]",7.09427573456442
+"1190","Yukon","YT","Indirect","Output",FALSE,"Sawmills and wood preservation [BS321100]",9.31946948304911
+"1191","Yukon","YT","Induced","Output",TRUE,"Sawmills and wood preservation [BS321100]",3.62431933234708
+"1192","Yukon","YT","Induced","Output",FALSE,"Sawmills and wood preservation [BS321100]",5.03151866672034
+"1193","Yukon","YT","Indirect","GDP",TRUE,"Sawmills and wood preservation [BS321100]",3.31066200946339
+"1194","Yukon","YT","Indirect","GDP",FALSE,"Sawmills and wood preservation [BS321100]",4.34908575875625
+"1195","Yukon","YT","Induced","GDP",TRUE,"Sawmills and wood preservation [BS321100]",1.69134902176197
+"1196","Yukon","YT","Induced","GDP",FALSE,"Sawmills and wood preservation [BS321100]",2.34804204446949
+"1197","Yukon","YT","Indirect","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",70.9427573456442
+"1198","Yukon","YT","Indirect","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",93.1946948304911
+"1199","Yukon","YT","Induced","Jobs",TRUE,"Sawmills and wood preservation [BS3211]",36.2431933234708
+"1200","Yukon","YT","Induced","Jobs",FALSE,"Sawmills and wood preservation [BS3211]",50.3151866672034
+"1201","Yukon","YT","Indirect","Output",TRUE,"Other wood product manufacturing [BS321900]",0
+"1202","Yukon","YT","Indirect","Output",FALSE,"Other wood product manufacturing [BS321900]",0
+"1203","Yukon","YT","Induced","Output",TRUE,"Other wood product manufacturing [BS321900]",0
+"1204","Yukon","YT","Induced","Output",FALSE,"Other wood product manufacturing [BS321900]",0
+"1205","Yukon","YT","Indirect","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",0
+"1206","Yukon","YT","Indirect","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",0
+"1207","Yukon","YT","Induced","GDP",TRUE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",0
+"1208","Yukon","YT","Induced","GDP",FALSE,"Veneer, plywood and engineered wood product manufacturing [BS321200]",0
+"1209","Yukon","YT","Indirect","Jobs",TRUE,"Other wood product manufacturing [BS3219]",58.6978815956148
+"1210","Yukon","YT","Indirect","Jobs",FALSE,"Other wood product manufacturing [BS3219]",77.3976616458389
+"1211","Yukon","YT","Induced","Jobs",TRUE,"Other wood product manufacturing [BS3219]",33.4834700937023
+"1212","Yukon","YT","Induced","Jobs",FALSE,"Other wood product manufacturing [BS3219]",46.3175383389378
