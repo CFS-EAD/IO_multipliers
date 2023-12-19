@@ -39,5 +39,5 @@ io <- do.call(rbind, lapply(1:nrow(ptab), function(m) {
 }))
 
 if(!file.exists(outputPath)) dir.create(outputPath)
-saveRDS(io, file = paste0(outputPath, '/IO_tables_2021.rds'))
+write.csv(io, file = paste0(outputPath, '/IO_tables_2021.csv'))
 

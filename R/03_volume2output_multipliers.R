@@ -142,6 +142,6 @@ iotab <- bind_rows(iotab,
   arrange(province, type, constrained)
 
 ## Write to file
-write.csv(iotab, file = 'output/IO_conversion_factors_2021.csv')
+write.csv(iotab, file = paste0(outputPath, '/IO_conversion_factors_2021.csv'))
 
 ## report m3 * Direct, indirect + induced Total Forest Sector conversion factors
