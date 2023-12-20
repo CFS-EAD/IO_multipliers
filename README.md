@@ -14,7 +14,7 @@ to:
 -   [R/01\_dataPrep.R](https://github.com/CFS-EAD/IO_multipliers/blob/main/R/01_dataPrep.R)
 
 1.  Calculate subsector-specific conversion factors (m3 to Output $)
-    corresponding to direct, indirect, induced and total multipliers
+    corresponding to direct, indirect, induced and total forest sector multipliers
     (constrained & unconstrained) for applicable provincial and
     territorial jurisdictions
 
