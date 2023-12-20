@@ -1,5 +1,5 @@
 Require::Require(c('googledrive','dplyr','openxlsx','stringr'))
 
 inputPath <- 'data'
+extDataPath <- 'extdata'
 outputPath <- 'output'
-if(!file.exists('extdata')) dir.create('extdata')
