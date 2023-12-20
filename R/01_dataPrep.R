@@ -1,7 +1,7 @@
 source('R/00_global.R')
 
 ## 1) create local data directory 
-dir.create(inputPath)
+if(!file.exists(inputPath)) dir.create(inputPath)
 
 ## 2) download StatCan summary tables from GCDocs (via SilvaCloud)
 ## GCDocs URL: https://gcdocs.gc.ca/nrcan-rncan/llisapi.dll?func=ll&objId=87876987&objAction=browse&viewType=1#

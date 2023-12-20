@@ -67,13 +67,13 @@ for(m in 1:nrow(ptab)) {
 
   ## Output
   otab <- filter(output, GEO == ptab$province[m]) %>%
-    group_by(Industry) %>% 
     mutate(VALUE = VALUE * 1e6) %>%
     select(REF_DATE,Industry,IOIC,VALUE)
   
   iotab <- rbind(iotab, do.call(rbind, lapply(unique(otab$IOIC), function(ind) {
     
-    multitab <- io[io$province == prov & 
+    ## Output
+    multitab <- io[io$province == ptab$province[m] & 
                      io$IOIC == ind &
                      io$type == 'Output', ] %>%
       select(Indirect.Multiplier:Induced.Multiplier)
@@ -86,44 +86,53 @@ for(m in 1:nrow(ptab)) {
                           Industry = otab$Industry[match(ind, otab$IOIC)],
                           conversion.factor = 
                             unlist(Reduce('+', lapply(unique(otab$REF_DATE), function(yr) {
-                              unname(unlist(otab[otab$IOIC == ind & otab$REF_DATE == yr, 'VALUE'][1,1])) * multitab
+                              otab[otab$IOIC == ind & otab$REF_DATE == yr, 'VALUE'] * multitab
                             })) / length(unique(otab$REF_DATE)) / harVol)) %>%
       tibble::remove_rownames()
     
     ## GDP
-    gdptab <- filter(gdp, GEO == ptab$province[m]) %>%
-      group_by(Industry) %>% 
-      mutate(VALUE = VALUE * 1e6) %>%
-      select(REF_DATE,Industry,IOIC,VALUE)
+    multitab <- io[io$province == ptab$province[m] & 
+                     io$IOIC == ind &
+                     io$type == 'GDP', ] %>%
+      select(Indirect.Multiplier:Induced.Multiplier)
+    
+    # gdptab <- filter(gdp, GEO == ptab$province[m]) %>%
+    #   mutate(VALUE = VALUE * 1e6) %>%
+    #   select(REF_DATE,Industry,IOIC,VALUE)
     
     y <- cbind.data.frame(province = ptab$province[m],
                           pt = ptab$pt[m],
                           type = c('Indirect', 'Induced')[c(1,1,2,2)],
                           category = 'GDP',
                           constrained = c(TRUE,FALSE)[c(1,2,1,2)],
-                          Industry = gdp$Industry[match(ind, gdptab$IOIC)],
+                          Industry = gdp$Industry[match(ind, otab$IOIC)],
                           conversion.factor = 
-                            unlist(Reduce('+', lapply(unique(gdp$REF_DATE), function(yr) {
-                              unname(unlist(gdptab[gdptab$IOIC == ind & gdptab$REF_DATE == yr, 'VALUE'][1,1])) * multitab
-                            })) / length(unique(gdptab$REF_DATE)) / harVol)) %>%
+                            unlist(Reduce('+', lapply(unique(otab$REF_DATE), function(yr) {
+                              otab[otab$IOIC == ind & otab$REF_DATE == yr, 'VALUE'] * multitab
+                            })) / length(unique(otab$REF_DATE)) / harVol)) %>%
       tibble::remove_rownames()
     
     ## Jobs
-    jtab <- filter(jobs, GEO == ptab$province[m]) %>%
-      mutate(VALUE = VALUE * 1e6) %>%
-      select(REF_DATE,Industry,IOIC,VALUE) %>%
-      mutate(IOIC = paste0(IOIC, sapply(8 - nchar(IOIC), function(t) str_c(rep('0', t), collapse = ''))))
+    multitab <- io[io$province == ptab$province[m] & 
+                     io$IOIC == ind &
+                     io$type == 'Jobs', ] %>%
+      select(Indirect.Multiplier:Induced.Multiplier)
+    
+    # jtab <- filter(jobs, GEO == ptab$province[m]) %>%
+    #   mutate(VALUE = VALUE * 1e6) %>%
+    #   select(REF_DATE,Industry,IOIC,VALUE) %>%
+    #   mutate(IOIC = paste0(IOIC, sapply(8 - nchar(IOIC), function(t) str_c(rep('0', t), collapse = ''))))
     
     z <- cbind.data.frame(province = ptab$province[m],
                           pt = ptab$pt[m],
                           type = c('Indirect', 'Induced')[c(1,1,2,2)],
                           category = 'Jobs',
                           constrained = c(TRUE,FALSE)[c(1,2,1,2)],
-                          Industry = jobs$Industry[match(ind, jtab$IOIC)],
+                          Industry = jobs$Industry[match(ind, otab$IOIC)],
                           conversion.factor = 
-                            unlist(Reduce('+', lapply(unique(jtab$REF_DATE), function(yr) {
-                              unname(unlist(jtab[jtab$IOIC == ind & jtab$REF_DATE == yr, 'VALUE'])) * multitab
-                            })) / length(unique(jtab$REF_DATE)) / harVol)) %>%
+                            unlist(Reduce('+', lapply(unique(otab$REF_DATE), function(yr) {
+                              unname(unlist(otab[otab$IOIC == ind & otab$REF_DATE == yr, 'VALUE'])) * multitab
+                            })) / length(unique(otab$REF_DATE)) / harVol)) %>%
       tibble::remove_rownames()
     
     bind_rows(x, y, z)
