@@ -15,7 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1.  Download and extract custom Forest Sector input-output multipliers (StatCan 2023) from [GCDocs](https://gcdocs.gc.ca/nrcan-rncan/llisapi.dll?func=ll&objId=87876987&objAction=browse&viewType=1#) via [EAD_SilvaCloud](https://drive.google.com/drive/folders/0AD8y6eREp30cUk9PVA) (Google Workspace)
 
-    -   [R/00_global.R](https://github.com/CFS-EAD/IO_multipliers/blob/main/R/00_global.R)
     -   [R/01_dataPrep.R](https://github.com/CFS-EAD/IO_multipliers/blob/main/R/01_dataPrep.R)
 
 2.  Calculate subsector-specific conversion factors (m3 to Output \$) corresponding to direct, indirect, induced and total multipliers (constrained & unconstrained) for applicable provincial and territorial jurisdictions

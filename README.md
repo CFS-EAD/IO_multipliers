@@ -10,7 +10,6 @@ to:
     [EAD\_SilvaCloud](https://drive.google.com/drive/folders/0AD8y6eREp30cUk9PVA)
     (Google Workspace)
 
-    -   [R/00\_global.R](https://github.com/CFS-EAD/IO_multipliers/blob/main/R/00_global.R)
     -   [R/01\_dataPrep.R](https://github.com/CFS-EAD/IO_multipliers/blob/main/R/01_dataPrep.R)
 
 2.  Calculate subsector-specific conversion factors (m3 to Output $)
