@@ -1,7 +1,14 @@
-source('R/00_global.R')
+########################
+## global parameters
+Require::Require(c('googledrive','dplyr','openxlsx','stringr'))
+inputPath <- 'data'
+outputPath <- 'output'
+extDataPath <- 'extdata'
+##########################
 
 ## 1) create local data directory 
 if(!file.exists(inputPath)) dir.create(inputPath)
+if(!file.exists(outputPath)) dir.create(outputPath)
 if(!file.exists(extDataPath)) dir.create(extDataPath)
 
 ## 2) download StatCan summary tables from GCDocs (via SilvaCloud)

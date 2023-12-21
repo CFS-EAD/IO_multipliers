@@ -1,4 +1,4 @@
-## 3) import and compile summary 
+## Import and compile summary 
 ptab <- data.frame(fname = list.files(inputPath, full.names = T)) %>%
   mutate(province = str_sub(fname, start = 6L, end = -14L),
          pt = c('AB','BC','CAN','MB','NB','NL','NW','NS','ON','PE','QC','SK','YT')) %>%

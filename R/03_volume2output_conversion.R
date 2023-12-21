@@ -1,3 +1,4 @@
+## compute and stock $/m3 Direct, indirect + induced Total and Forest Sector subsector conversion factors
 iotab <- data.frame()
 
 for(m in 1:nrow(ptab)) {
@@ -132,7 +133,7 @@ for(m in 1:nrow(ptab)) {
                           conversion.factor = 
                             unlist(Reduce('+', lapply(unique(otab$REF_DATE), function(yr) {
                               unname(unlist(otab[otab$IOIC == ind & otab$REF_DATE == yr, 'VALUE'])) * multitab
-                            })) / length(unique(otab$REF_DATE)) / harVol)) %>%
+                            })) / length(unique(otab$REF_DATE)) / harVol / 1000)) %>%
       tibble::remove_rownames()
     
     bind_rows(x, y, z)
@@ -152,5 +153,3 @@ iotab <- bind_rows(iotab,
 
 ## Write to file
 write.csv(iotab, file = paste0(outputPath, '/IO_conversion_factors_2021.csv'))
-
-## report m3 * Direct, indirect + induced Total Forest Sector conversion factors
